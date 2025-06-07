@@ -8,7 +8,7 @@ Este projeto tem como objetivo praticar e consolidar o conhecimento sobre a arqu
 A proposta é aplicar o conceito de separação de responsabilidades, distribuindo corretamente as funções entre as camadas — como controle, serviço e repositório — para tornar o código mais limpo, modular e de fácil manutenção.
 
 ## Padrão de camadas
-![Modelo de camadas](https://github.com/Samyr-Dev/dslist/blob/main/assets/Modelo%20de%20objetos.png)
+![Modelo de camadas](https://github.com/Samyr-Dev/Structure_layers/blob/main/assets/Modelo%20de%20camadas.png)
 
 # Tecnologias utilizadas
 ## Back end
